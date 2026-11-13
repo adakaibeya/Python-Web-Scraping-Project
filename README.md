@@ -22,7 +22,9 @@ This project demonstrates the use of Python for extracting structured tabular da
 
 **Download Project**
 [Download python notebook](./web_scraping.ipynb)
+
 [Download extracted dataset_1](./nigerian_companies.csv)
+
 [Download extracted dataset_2](./nigerian_companies2.csv)
 
 
